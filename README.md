@@ -12,7 +12,7 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
-Automated Report Generation – Codetech IT Solutions Pvt Ltd
+DESCRIPTION:Automated Report Generation – Codetech IT Solutions Pvt Ltd
 Overview
 The Automated Report Generation project demonstrates how Python can be leveraged to streamline the creation of professional reports from raw data. The project focuses on automating repetitive report-generation
 
