@@ -12,7 +12,7 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTHOSH
 
-DESCRIPTION:Automated Report Generation 
+DESCRIPTION:Automated Report Generation -Codtech It Solutions Pvt
 
 Overview
 
